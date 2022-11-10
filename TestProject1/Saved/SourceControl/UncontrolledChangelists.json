@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMapClear.umap",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Materials/textures/Alexander_Ivanitskii_space_jesus_walk_strange_01b9f37f-4233-4600-830d-e91c1239edc9.uasset",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Materials/Alexander_Ivanitskii_space_jesus_walk_strange_01b9f37f-4233-4600-830d-e91c1239edc9.uasset",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Materials/textures/Alexander_Ivanitskii_space_jesus_walk_strange_01b9f37f-4233-4600-830d-e91c1239edc9.uasset",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMapClear.umap",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMapClear.umap",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Materials/M_BaseMaterial.uasset",
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMap_HLOD0_Instancing.uasset",
@@ -151,7 +158,8 @@
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/__ExternalActors__/Maps/NewMap/6/QE/645MYKBV7S2CA2AS80U9VV.uasset",
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/__ExternalActors__/Maps/NewMap/B/FI/U8ULXKBNWT08NU7LK2FOIG.uasset",
 				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/__ExternalActors__/Maps/NewMap/2/3V/GBY3G54KKIE9KG4FYKY4K6.uasset",
-				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMap.umap"
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/Maps/NewMap.umap",
+				"E:/_UE/GitSourceControl/UE_Projects/TestProject1/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
 	]
